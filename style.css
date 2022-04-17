@@ -1,0 +1,37 @@
+.text-left{
+    margin: 40px;
+    padding: 30px;
+}
+
+.title{
+    color: azure;
+
+}
+
+.first{
+    color: azure;
+}
+
+.second{
+    color: azure;
+}
+
+.bg-img{ 
+    margin: auto;
+    padding: auto;
+    background-image: url(image/img2.png);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    overflow: hidden;
+}
+
+button{
+    color: whitesmoke;
+    padding: 5px 15px;
+    background: transparent;
+    border: 1px solid #fff;
+    border-radius: 10px;
+    outline: none;
+    cursor: pointer;
+}
